@@ -1,0 +1,4 @@
+rootProject.name = 'multi-module'
+include 'product-module'
+include 'statistic-module'
+
